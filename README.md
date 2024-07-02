@@ -1,7 +1,11 @@
 #  <span style="color:tan"> **Module 14 Interactive Dashboard Challenge**  </span>
 ## **Homework Log**
 
-The Module 14 Challenge homework is located in the belly-button-challenge repository.  
+The Module 14 Challenge homework is located in the belly-button-challenge repository
+https://github.com/umasel/belly_button_challenge
+
+The link is availabe at https://umasel.github.io/belly_button_challenge/
+
 ---
 ## **Purpose**
 
