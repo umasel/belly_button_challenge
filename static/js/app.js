@@ -146,10 +146,6 @@ d3.json(url).then(function(data) {
   bubbleChart(nameIndex);
 
 
-  //GAUGECHART VISUAL
-  //this plots the average number of times that the default or selected Test Subject washed their belly button per week (wfreq)
-  
-
 });
 
 // helpful things I found along the way
